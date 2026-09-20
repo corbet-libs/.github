@@ -3,6 +3,13 @@
 These instructions apply by default to repositories that do not provide their
 own `CONTRIBUTING.md`.
 
+## License boundary
+
+Most `corbet-libs` repositories are source-available (Functional Source
+License); the per-repository `LICENSE` file is decisive. Do not submit
+OSI-only open-source code here — it belongs in `corbet-foss`. If unsure,
+ask before opening a pull request.
+
 ## Before submitting
 
 - Create focused commits and include tests for behavior changes.

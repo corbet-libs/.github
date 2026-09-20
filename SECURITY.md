@@ -11,9 +11,10 @@ configuration, impact assessment, and any known mitigations.
 
 ## Scope
 
-This organization maintains public Nix configuration mechanisms. Host-specific
-values, topology, credentials, and private deployment details are out of scope
-and must never be included in reports or reproductions.
+This organization maintains multi-product shared libraries, mostly under
+source-available (FSL) licenses. Credentials, private deployment details,
+customer data, and secrets are out of scope and must never be included in
+reports or reproductions.
 
 ## Response
 
